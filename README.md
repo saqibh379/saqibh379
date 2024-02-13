@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @saqibh379
-- 👀 I’m interested in Entrepreneurship and Development
-- 🌱 I’m currently learning React JS & Digital Marketing
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Entrepreneurship and UIUX Development
+- 🌱 I’m currently learning Flutter
+- 💞️ I’m looking to collaborate on Experience Design, Web App and Mobile Application
 - 📫 How to reach me saqibh379@gmail.com
 
 <!---
